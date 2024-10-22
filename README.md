@@ -5,7 +5,7 @@
 The project is essentially a hardware design for an Oil Diffuser product. Two variants of the design are required. The core features are highlighted below:
 ### Design Variant 01
 - A circle with a maximum diameter of 5” with space on the inside for the atomizer disc. Placement should be followed as shown in image below
-- The board should have 3 small holes for attachment to the body. Dia will be confirmed but standard eSpark Mounting Hole dia can be used.
+- The board should have 3 small holes for attachment to the body. See picture attached for clarification. Dia will be compatible with M2 screws.
 - 24V input jack DC Barrel Input Jack.
 - Circuit power controlled by a binary switch. ON should turn ON the following:
     - A small DC fan.
