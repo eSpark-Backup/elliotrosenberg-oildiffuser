@@ -82,6 +82,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HNWFXOEI
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Oil-Diffuser-A-v1.0.0\Design Rule Check - PCB-Oil Diffuser.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
