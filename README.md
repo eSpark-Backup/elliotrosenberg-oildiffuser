@@ -4,12 +4,13 @@
 ## Project Requirements
 The project is essentially a hardware design for an Oil Diffuser product. Two variants of the design are required. The core features are highlighted below:
 ### Design Variant 01
-- A circle with a maximum diameter of 5” with space on the inside for the atomizer disc. Placement should be followed as shown in image below
-- The board should have 3 small holes for attachment to the body. See picture attached for clarification. Dia will be compatible with M2 screws.
+- A circle with an outer diameter of 3” with space on the inside for the atomizer disc about 1.5". Placement should be followed as shown in image below
+- The board should have 3 small holes for attachment to the body. See picture attached for clarification. Dia should be compatible with M2 screws.
 - 24V input jack DC Barrel Input Jack.
 - Circuit power controlled by a binary switch. ON should turn ON the following:
     - A small DC fan.
     - An ultrasonic atomizer and associated circuitry.
+- The circuit should operate based on fixed timer of 1 hour after which it turns off automatically and needs to be restarted again.
  
 #### Reference Product Image
 ![image](https://github.com/user-attachments/assets/4d0d1984-47fe-44f6-8022-b821747e1b71)
