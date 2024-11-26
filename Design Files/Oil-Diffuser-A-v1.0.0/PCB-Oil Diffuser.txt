@@ -1,0 +1,16 @@
+Board Information Report
+Filename     : S:\elliotrosenberg-oildiffuser\Design Files\Oil-Diffuser-A-v1.0.0\PCB-Oil Diffuser.PcbDoc
+Date         : 11/26/2024
+Time         : 3:55:07 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 95.18%
+    Connections, 83
+    Connections routed, 79
+    Connections remaining, 4
+count : 4
+
+Net Track Width, Count
+    10mils, 28
+count : 1

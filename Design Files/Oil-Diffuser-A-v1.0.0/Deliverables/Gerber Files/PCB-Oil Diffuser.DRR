@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB-Oil Diffuser.PcbDoc   11/26/2024  5:17:36 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB-Oil Diffuser-RoundHoles.TXT
+ASCII SlotHoles File : PCB-Oil Diffuser-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             48        PTH        269.72mm (10.62inch)
+T2      0.7mm (28mil)                                             Round             4         PTH        15.88mm (0.63inch)
+T3      0.762mm (30mil)                                           Round             6         PTH        15.46mm (0.61inch)
+T4      0.8mm (31mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T5      0.9mm (35mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T6      1mm (39mil)                                               Round             4         PTH        59.39mm (2.34inch)
+T7      1mm (39mil)                                               Slot              3         PTH        20.16mm (0.79inch)
+T8      1.4mm (55mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T9      2.083mm (82mil)                                           Round             2         NPTH       38.00mm (1.50inch)
+T10     2.1mm (83mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T11     2.1mm (83mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00

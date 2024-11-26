@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Oil-Diffuser-A-v1.0.0.PrjPcb]
+   Generated File[Pick Place for PCB-Oil Diffuser.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:42:16 PM On 11/26/2024
